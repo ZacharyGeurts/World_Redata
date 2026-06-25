@@ -16,7 +16,6 @@ import time
 import zlib
 from dataclasses import dataclass
 from pathlib import Path
-from typing import BinaryIO
 
 MAGIC = b"WRDT"
 VERSION = 1

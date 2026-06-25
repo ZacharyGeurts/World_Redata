@@ -1,0 +1,36 @@
+World Redata — Proprietary Software License
+
+Copyright (c) 2026 Zachary Geurts. All Rights Reserved.
+
+NOTICE: This software, including the WRDT1 format specification, reference
+implementation, web interface, documentation, and all derivative works
+(collectively, the "Software"), is the exclusive intellectual property of
+Zachary Geurts.
+
+PERMISSIONS
+  No license is granted to copy, modify, merge, publish, distribute,
+  sublicense, sell, or otherwise exploit the Software, in whole or in part,
+  without prior written permission from Zachary Geurts.
+
+RESTRICTIONS
+  1. Reverse engineering for the purpose of creating a competing product
+     without authorization is prohibited.
+  2. Removal or alteration of copyright or proprietary notices is prohibited.
+  3. Use of the name "World Redata" or "WRDT" in derivative products
+     requires written approval.
+
+ALLOWED USE (without separate agreement)
+  - Evaluation on your own machines for internal testing.
+  - Reading public documentation published by the copyright holder.
+
+DOCTRINE (non-binding summary)
+  Redata is lossless data stewardship — not a compression codec. Canonical
+  bytes are provable via SHA-256 inside the envelope. In-place conversion
+  clears file tails; it does not overwrite unrelated files.
+
+DISCLAIMER
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO
+  EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+  LIABILITY ARISING FROM USE OF THE SOFTWARE.
+
+For licensing inquiries: contact the copyright holder.

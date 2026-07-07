@@ -1,3 +1,6 @@
+# THIS IS OLD AND INFO ONLY. NO FIELD NEXT TO FIELD. ALWAYS FIELD 1 and per device kinda thing. USB might be okay if you instantiate first to the storage.
+# FIX THOSE ISSUES AND BE SAFE.
+
 # World_Redata
 
 **Lossless in-place data envelopes — not a compression codec.**

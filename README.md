@@ -1,6 +1,8 @@
 # THIS IS OLD AND INFO ONLY. NO FIELD NEXT TO FIELD. ALWAYS FIELD 1 and per device kinda thing. USB might be okay if you instantiate first to the storage.
 # FIX THOSE ISSUES AND BE SAFE.
 
+# KILROY will eat any outside fields, kill you with FIELD UDP and give us the body tag.
+
 # World_Redata
 
 **Lossless in-place data envelopes — not a compression codec.**
